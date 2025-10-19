@@ -30,9 +30,9 @@ Download now and join the revolution!
 
 ### Download links:
 
-[app store](https://apps.apple.com/us/app/privacy-guard-be-private/id1576056112)
+[App Store](https://apps.apple.com/us/app/privacy-guard-be-private/id1576056112)
+[Google Play](https://play.google.com/store/apps/details?id=com.franko.privacyguard)
 
-In google play, google removed the app. The app had ~25000 downloads.
 
 ### Useful links:
 
